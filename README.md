@@ -1,19 +1,18 @@
 ```markdown
-# Fibonacci Sequence Generator
+Fibonacci Sequence Generator
 
 A Python implementation of the Fibonacci sequence using an iterative approach.
 
 ## Table of Contents
-- [Overview](#overview)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [How It Works](#how-it-works)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
+- Overview
+- Installation
+- Usage
+- Features
+- How It Works
+- Examples
+- Contributing
 
-## Overview
+Overview
 
 This project provides a clean, efficient implementation of the Fibonacci sequence in Python. The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, starting from 0 and 1.
 
@@ -22,7 +21,7 @@ The implementation uses an iterative approach which is:
 - Faster for large sequences
 - Easier to understand for beginners
 
-## Installation
+ Installation
 
 No installation is required as this is a standalone Python script. However, you need:
 
